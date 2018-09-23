@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+the directory becomes a git repository under version control.
+a .git hidden directory is created with meta data about commits
+this is needed so git knows the directory is a repository and has somewhere
+to save commit history
